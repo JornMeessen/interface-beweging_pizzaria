@@ -1,3 +1,2 @@
-# Interface beweging
-pizzaria
+# Interface beweging pizzaria
  
