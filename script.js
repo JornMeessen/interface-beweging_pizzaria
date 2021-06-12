@@ -22,3 +22,12 @@ function speelBezorgen() {
     video.src = "pizzeria_files/bezorgen.mp4";
     console.log('run bezorgen');
 }
+
+function myFunction() {
+  var myVar = setTimeout(showPage, 5000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
